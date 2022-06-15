@@ -159,7 +159,7 @@ img {
 @media (max-width:1200px) {
     
     #inicio{
-        background: #352728;
+        background-image: linear-gradient(to right top, #120056, #42047d, #720aa3, #a70bc8, #e000eb);
         height: auto;
     }
 
@@ -298,7 +298,7 @@ img {
         z-index: 2;
         top: 2rem;
         right: 2rem;
-        background: #792e33;
+        background: #00C9A7;
         color: white;
         font-size: 3rem;
         line-height:3rem;
